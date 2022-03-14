@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fininfocom task</string>
+    <string name="submit_Button">SUBMIT</string>
+    <string name="save_Button">SAVE</string>
+    <string name="phone_hint">Phone</string>
+    <string name="email_hint">Email</string>
+</resources>
